@@ -16,8 +16,8 @@ This tool is a wrapper for CVEMap (https://github.com/projectdiscovery/cvemap).
 The output file relies on the input file's name. If you use the same input file name, you may run into issues with overwritting. Try using unique input file names.
 ### Example
 ```console
-$ git clone https://github.com/e-nzym3/cve_parser.git
-$ cd https://github.com/e-nzym3/cve_parser
+$ git clone https://github.com/darkmatter91/cve_parser.git
+$ cd https://github.com/darkmatter91/cve_parser.git
 $ ls
 README.md  cve_json_parse.py  cve_parser.sh
 $ vi cves.txt
@@ -30,6 +30,7 @@ $ ./cve_parser.sh -c cves.txt
 \___/ |___/___/ /_/   \_,_/_/ /___/\__/_/
 
               By E-nzym3
+      PowerShell By Darkmatter91
     (https://github.com/e-nzym3)
 
 [*] Created chunk 1: lines 1 to 100
