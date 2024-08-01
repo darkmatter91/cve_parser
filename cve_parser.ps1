@@ -18,7 +18,7 @@ Write-Host "/ /__ | |/ / _/  / ___/ _ \`/ __(_-</ -_) __/" -ForegroundColor Blue
 Write-Host "\___/ |___/___/ /_/   \_,_/_/ /___/\__/_/   " -ForegroundColor Blue
 Write-Host "                                            "
 Write-Host "              By E-nzym3" -ForegroundColor Red
-Write-Host "          PS By Darkmatter91" -ForegroundColor Red
+Write-Host "     PowerShell By Darkmatter91" -ForegroundColor Red
 Write-Host "    (https://github.com/e-nzym3)`n" -ForegroundColor Red
 
 # Function to display usage
